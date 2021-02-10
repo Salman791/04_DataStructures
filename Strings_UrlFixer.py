@@ -10,3 +10,4 @@ print(url)
 new_url = url.replace("bots", "odds")
 new_url_2 = new_url[:5] + ':' + new_url[5:]
 print("New URL: " + new_url_2)
+
